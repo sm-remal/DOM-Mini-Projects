@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif; 
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    font-size: 44px;
+    font-weight: 600;
+}
+h2{
+    font-size: 38px;   
+}
+
+button{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 20px;
+    margin: 10px 15px;
+    border-radius: 8px;
+}
